@@ -1,0 +1,93 @@
+files detected as not patched.
+originpath:/FindX-8.1-kernel-master/drivers/video/fbdev/sbuslib.c       
+clonepath:/linux_kernel/CVE-2018-6412/root/drivers/video/fbdev/sbuslib.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/drivers/usb/usbip/stub_rx.c       
+clonepath:/linux_kernel/CVE-2017-16912/root/drivers/usb/usbip/stub_rx.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/drivers/usb/usbip/stub_tx.c       
+clonepath:/linux_kernel/CVE-2017-16914/root/drivers/usb/usbip/stub_tx.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/drivers/acpi/acpica/nsutils.c       
+clonepath:/linux_kernel/CVE-2017-11472/root/drivers/acpi/acpica/nsutils.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/include/linux/vmacache.h       
+clonepath:/linux_kernel/CVE-2018-17182/root/include/linux/vmacache.h   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/include/net/netns/sctp.h       
+clonepath:/linux_kernel/CVE-2015-3212/root/include/net/netns/sctp.h   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/crypto/pcrypt.c       
+clonepath:/linux_kernel/CVE-2017-18075/root/crypto/pcrypt.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/fs/ecryptfs/kthread.c       
+clonepath:/linux_kernel/CVE-2016-1583/root/fs/ecryptfs/kthread.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/fs/fs_pin.c       
+clonepath:/linux_kernel/CVE-2015-4178/root/fs/fs_pin.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/net/dns_resolver/dns_key.c       
+clonepath:/linux_kernel/CVE-2017-15951/root/net/dns_resolver/dns_key.c   similarity: 1.0
+
+originpath:/FindX-8.1-kernel-master/drivers/tty/n_tty.c       
+clonepath:/linux_kernel/CVE-2018-18386/root/drivers/tty/n_tty.c   similarity: 1.0
+
+
+originpath:/FindX-8.1-kernel-master/arch/x86/crypto/salsa20_glue.c       
+clonepath:/linux_kernel/CVE-2017-17805/root/arch/x86/crypto/salsa20_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/crypto/salsa20_generic.c       
+clonepath:/linux_kernel/CVE-2017-17805/root/crypto/salsa20_generic.c   similarity: 1.0
+
+
+originpath:/FindX-8.1-kernel-master/drivers/scsi/libsas/sas_ata.c       
+clonepath:/linux_kernel/CVE-2017-18232/root/drivers/scsi/libsas/sas_ata.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/drivers/scsi/libsas/sas_discover.c       
+clonepath:/linux_kernel/CVE-2017-18232/root/drivers/scsi/libsas/sas_discover.c   similarity: 1.0
+
+
+originpath:/FindX-8.1-kernel-master/arch/x86/kvm/ioapic.c       
+clonepath:/linux_kernel/CVE-2016-9777/root/arch/x86/kvm/ioapic.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/x86/kvm/ioapic.h       
+clonepath:/linux_kernel/CVE-2016-9777/root/arch/x86/kvm/ioapic.h   similarity: 1.0
+
+
+originpath:/FindX-8.1-kernel-master/net/sunrpc/xprtrdma/svc_rdma.c       
+clonepath:/linux_kernel/CVE-2017-9059/root/net/sunrpc/xprtrdma/svc_rdma.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/fs/nfsd/nfs3xdr.c       
+clonepath:/linux_kernel/CVE-2017-9059/root/fs/nfsd/nfs3xdr.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/fs/nfsd/nfsxdr.c       
+clonepath:/linux_kernel/CVE-2017-9059/root/fs/nfsd/nfsxdr.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/fs/lockd/svclock.c       
+clonepath:/linux_kernel/CVE-2017-9059/root/fs/lockd/svclock.c   similarity: 1.0
+
+
+originpath:/FindX-8.1-kernel-master/drivers/hid/hid-cherry.c       
+clonepath:/linux_kernel/CVE-2014-3184/root/drivers/hid/hid-cherry.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/drivers/hid/hid-monterey.c       
+clonepath:/linux_kernel/CVE-2014-3184/root/drivers/hid/hid-monterey.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/drivers/hid/hid-petalynx.c       
+clonepath:/linux_kernel/CVE-2014-3184/root/drivers/hid/hid-petalynx.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/drivers/hid/hid-sunplus.c       
+clonepath:/linux_kernel/CVE-2014-3184/root/drivers/hid/hid-sunplus.c   similarity: 1.0
+
+
+originpath:/FindX-8.1-kernel-master/arch/x86/crypto/aes_glue.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/arch/x86/crypto/aes_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/x86/crypto/blowfish_glue.c      
+ clonepath:/linux_kernel/CVE-2013-7421/root/arch/x86/crypto/blowfish_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/x86/crypto/des3_ede_glue.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/arch/x86/crypto/des3_ede_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/x86/crypto/salsa20_glue.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/arch/x86/crypto/salsa20_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/x86/crypto/twofish_glue.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/arch/x86/crypto/twofish_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/arm/crypto/aes_glue.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/arch/arm/crypto/aes_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/sparc/crypto/crc32c_glue.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/arch/sparc/crypto/crc32c_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/arch/sparc/crypto/sha1_glue.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/arch/sparc/crypto/sha1_glue.c   similarity: 1.0
+originpath:/FindX-8.1-kernel-master/crypto/crc32c_generic.c       
+clonepath:/linux_kernel/CVE-2013-7421/root/crypto/crc32c_generic.c   similarity: 1.0
+
+
